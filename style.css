@@ -1,0 +1,38 @@
+.obraz{
+    float: left;
+    margin-top: 6%;
+    margin-left: 5%;
+    width: 90%;
+    height: 90%;
+}
+.mem{
+    width: 35%;
+    height: 35%;
+    box-shadow: 5px 5px 10px;
+}    
+.linia{
+    border-left:2.5px solid rgb(0, 0, 0); 
+    height: 550px; 
+    width: 1px;
+    margin-top: 7.5%;
+    margin-left: 45%;
+}
+.zyczenia{
+    float: right;
+    margin-top: -40%;
+    margin-right: 5%;
+    font-size: 200%;
+}
+.tresc{
+    font-style: italic;
+    font-family: serif;
+}
+.podpis{
+    margin-left: 50%;
+}
+.Pocztowka{
+    background-color: rgb(235, 28, 28);
+    margin-left: 15%;
+    margin-right: 10%;
+    margin-top: 10%;
+}
